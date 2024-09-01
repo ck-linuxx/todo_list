@@ -6,11 +6,11 @@ completar e excluir tarefas (to-dos).</p>
 <br />
 <h4>Requisitos:</h4>
 
-[x] - Adicionar tarefas
-[x] - Listar tarefas
-[x] - Editar tarefas
-[x] - Completar tarefas
-[x] - Excluir tarefas
+- [x] - Adicionar tarefas
+- [x] - Listar tarefas
+- [x] - Editar tarefas
+- [x] - Completar tarefas
+- [x] - Excluir tarefas
 
 <h4>🛠️ Ferramentas utilizadas:</h4>
 
