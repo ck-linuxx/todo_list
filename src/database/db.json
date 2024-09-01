@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "6cca38e4-37b0-409f-bda1-e7d6a7d9c292",
+      "description": "New Task",
+      "done": false
+    },
+    {
+      "id": "2af9808f-a7fd-487c-b44c-a37673eede9f",
+      "description": "Update Task - Done",
+      "done": true
+    }
+  ]
+}
